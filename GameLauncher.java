@@ -5,6 +5,7 @@ class GameLauncher {
       game.play();
       if (!Yes("Play again? (y/n) ")) break;
     }
+    System.out.println("Thanks for playing!");
   }
   
   private static boolean Yes(String prompt) {
