@@ -1,4 +1,4 @@
 Chinese-Chess
 =============
 
-the game, bro
+hello
